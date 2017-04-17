@@ -1,0 +1,16 @@
+# General
+.DS_Store
+
+# Dependency directories
+node_modules
+
+# Logs
+npm-debug.log
+*.log
+
+
+# Symbols Data & Process directories
+build/
+.temp/
+build.json
+
